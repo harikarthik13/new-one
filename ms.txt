@@ -1,2 +1,3 @@
 merge stash
 git stash
+stash ,merge
